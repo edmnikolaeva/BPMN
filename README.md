@@ -2,10 +2,14 @@
 - This repository demonstrates BPMN modeling of business processes (as-is & to-be) for a network of medical clinics  
 - Goal: identify automation opportunities to improve business efficiency
 
+---
+
 ### BPMN Models
 
 - 👉[View BPMN As-Is](https://github.com/edmnikolaeva/BPMN/blob/main/BPMN_as-is.jpg)  
 - 👉[View BPMN To-Be](https://github.com/edmnikolaeva/BPMN/blob/main/BPMN_to-be.jpg)
+
+---
 
 ### PROCESS
 
