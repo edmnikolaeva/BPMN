@@ -4,8 +4,8 @@
 
 ### BPMN Models
 
-- [BPMN As-Is](https://github.com/edmnikolaeva/BPMN/blob/main/BPMN_as-is.jpg)  
-- [BPMN To-Be](https://github.com/edmnikolaeva/BPMN/blob/main/BPMN_to-be.jpg)
+- 👉[View BPMN As-Is](https://github.com/edmnikolaeva/BPMN/blob/main/BPMN_as-is.jpg)  
+- 👉[View BPMN To-Be](https://github.com/edmnikolaeva/BPMN/blob/main/BPMN_to-be.jpg)
 
 ### PROCESS
 
