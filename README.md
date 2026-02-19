@@ -1,9 +1,23 @@
- # Business Process Modeling — Medical Clinic Appointment Process
-- This repository contains BPMN models for as-is and to-be business processes in a network of medical clinics, focusing on appointment booking to identify automation opportunities
+## Business Process Modeling — Medical Clinic Appointment Process
+ 
+<table>
+<tr>
+<td>
+
+This repository contains BPMN models for as-is and to-be business processes in a network of medical clinics, focusing on appointment booking to identify automation opportunities
+
+</td>
+<td width="220">
+<img src="https://github.com/edmnikolaeva/BPMN/blob/main/bpmn_to_be.png" 
+     alt="Visual Anchor — Main Screen Prototype" 
+     width="200"/>
+</td>
+</tr>
+</table>
   
 ---
 
-### 🧩 Key Artifacts
+### 🧩 Main Artifacts
 
 - 👉[BPMN As-Is](https://github.com/edmnikolaeva/BPMN/blob/main/BPMN_as-is.jpg)  
 - 👉[BPMN To-Be](https://github.com/edmnikolaeva/BPMN/blob/main/BPMN_to-be.jpg)
