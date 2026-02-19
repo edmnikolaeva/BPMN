@@ -26,13 +26,14 @@ This repository contains BPMN models for as-is and to-be business processes in a
 
 ### 🧭 Business Context
 
-**Domain:** healthcare / medical clinic network / patient appointment management 
-**Scope:** model current (as-is) and optimized (to-be) processes for patient appointments, enabling self-booking via a mobile app
-**Goal:** propose automation for patient self-booking to reduce administrative workload and improve efficiency
+- **Domain:** healthcare / medical clinic network / patient appointment management 
+- **Scope:** model current (as-is) and optimized (to-be) processes for patient appointments, enabling self-booking via a mobile app
+- **Goal:** propose automation for patient self-booking to reduce administrative workload and improve efficiency
 
 ---
 
 **Key Pain Points**
+
 - Reliance on phone-based bookings leads to manual effort and potential patient loss
 - No online self-service option for finding doctors or available times
 - Confirmation and cancellation require admin intervention
@@ -65,6 +66,6 @@ This repository contains BPMN models for as-is and to-be business processes in a
 
 ---
 
-🔗 Related Artifacts:
+### 🔗 Related Artifacts:
 - 👉 [UML State Machine Diagram](https://github.com/edmnikolaeva/uml_diagrams/blob/main/uml_state_machine.jpg)
 - 👉 [Data Flow Diagrams (DFD)](https://github.com/edmnikolaeva/DFD)
