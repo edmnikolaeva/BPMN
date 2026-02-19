@@ -66,5 +66,5 @@ This repository contains BPMN models for as-is and to-be business processes in a
 ---
 
 🔗 Related Artifacts:
-- 👉 [UML State Machine](https://github.com/edmnikolaeva/uml_diagrams/blob/main/uml_state_machine.jpg)
+- 👉 [UML State Machine Diagram](https://github.com/edmnikolaeva/uml_diagrams/blob/main/uml_state_machine.jpg)
 - 👉 [Data Flow Diagrams (DFD)](https://github.com/edmnikolaeva/DFD)
